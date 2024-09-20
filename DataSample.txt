@@ -1,0 +1,6 @@
+Type,normal,Normal Price
+Type,clearance,Clearance Price
+Type,price_in_cart,Price In Cart
+Product,59.99,39.98,10,false
+Product,49.99,49.99,8,false
+Product,79.99,49.98,5,false
